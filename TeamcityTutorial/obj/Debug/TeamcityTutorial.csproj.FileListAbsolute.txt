@@ -1,1 +1,2 @@
 C:\Programming\Projects\TeamcityTutorial\TeamcityTutorial\bin\Debug\TeamcityTutorial.exe.config
+C:\Programming\Projects\TeamcityTutorial\TeamcityTutorial\obj\Debug\TeamcityTutorial.csprojResolveAssemblyReference.cache
